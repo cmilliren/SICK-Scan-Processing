@@ -1,0 +1,18 @@
+<icon_data_format valuetype="Scan" name="Measurement" >
+ <parameter name="size" >39040</parameter>
+ <parameter name="version" >1</parameter>
+ <parameter name="layout" >SCAN</parameter>
+ <component valuetype="DCM" name="Hi3D 1" >
+  <parameter name="size" >39040</parameter>
+  <parameter name="height" >1</parameter>
+  <worldrangetraits>
+   <parameter name="lower bound r" >128.4</parameter>
+   <parameter name="upper bound r" >681.4</parameter>
+   <parameter name="coordinate unit" >millimeter</parameter>
+  </worldrangetraits>
+  <subcomponent valuetype="FLOAT" name="Range R" >
+   <parameter name="size" >39040</parameter>
+   <parameter name="width" >9760</parameter>
+  </subcomponent>
+ </component>
+</icon_data_format>

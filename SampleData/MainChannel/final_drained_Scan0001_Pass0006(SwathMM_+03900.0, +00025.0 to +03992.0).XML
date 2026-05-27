@@ -1,0 +1,34 @@
+<IVPDATA name = 'Measurement' valuetype = 'scan' >
+<PARAMETER name = 'version'>2 </PARAMETER>
+<PARAMETER name = 'size'>4628 </PARAMETER>
+<COMPONENT name = 'Hi3D 1' valuetype = 'DCM'>
+<PARAMETER name = 'size'>4628 </PARAMETER>
+<PARAMETER name = 'height'>1 </PARAMETER>
+<PARAMETER name = 'coordinate system'> pixels </PARAMETER>
+<PARAMETER name = 'FOV x0'>0 </PARAMETER>
+<PARAMETER name = 'FOV x1'>1535 </PARAMETER>
+<PARAMETER name = 'FOV x2'>0 </PARAMETER>
+<PARAMETER name = 'FOV x3'>1535 </PARAMETER>
+<PARAMETER name = 'FOV z0'>1 </PARAMETER>
+<PARAMETER name = 'FOV z1'>1 </PARAMETER>
+<PARAMETER name = 'FOV z2'>8191 </PARAMETER>
+<PARAMETER name = 'FOV z3'>8191 </PARAMETER>
+<PARAMETER name = 'origin x'>0 </PARAMETER>
+<PARAMETER name = 'width'>1536 </PARAMETER>
+<PARAMETER name = 'scale x'>1.00 </PARAMETER>
+<PARAMETER name = 'origin z'>510.875000  </PARAMETER>
+<PARAMETER name = 'scale z'>-0.062500 </PARAMETER>
+<LINE name = 'Mark' valuetype = 'INT'>
+<PARAMETER name = 'size'>20 </PARAMETER>
+<PARAMETER name = 'width'>5 </PARAMETER>
+</LINE>
+<LINE name = 'Intensity' valuetype = 'BYTE'>
+<PARAMETER name = 'size'>1536 </PARAMETER>
+<PARAMETER name = 'width'>1536 </PARAMETER>
+</LINE>
+<LINE name = 'Range' valuetype = 'WORD'>
+<PARAMETER name = 'size'>3072 </PARAMETER>
+<PARAMETER name = 'width'>1536 </PARAMETER>
+</LINE>
+</COMPONENT>
+ </IVPDATA> 
